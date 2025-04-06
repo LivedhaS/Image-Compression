@@ -1,5 +1,5 @@
 # Image-Compression
-This project focuses on image compression using Huffman coding, a widely employed 
+This project focuses on image compression using Huffman coding, a widely employed
 technique in data compression. The goal is to reduce the storage size of digital images while
 maintaining visual fidelity. The theoretical foundation involves calculating the frequency of 
 pixel values in the image, building a Huffman tree based on this frequency information, and 
